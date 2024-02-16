@@ -1,5 +1,4 @@
-hello vitamin
-<<<<<<< HEAD
+
 hello my brother
 =======
 my name
